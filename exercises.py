@@ -24,7 +24,7 @@ example_list_function()
 
 def manage_students():
     student_list = ['sara', 'ali', 'zainab']
-    first_student = student_list[0]
+    first_student = student_list[1]
     last_student = student_list[-1]
     return first_student, last_student
 
